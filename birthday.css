@@ -10,8 +10,16 @@ body{
 
 .TimeLeft{
     color: tomato;
- 
+ display: none;
 
 
 
+}
+
+.user-input{
+    width: fit-content;
+    background-color: wheat;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 40px;
 }
